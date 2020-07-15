@@ -7,7 +7,7 @@
 :rocket:My name is Fernando and I'm a web developer.
 
 - :computer:Currently working with React, React native and nodeJS.
-- I'm also a Psychologist:brain: and Musician:musical_score:, wich allow me to be more creative in my work.
+- I'm also a Psychologist:brain: and Musician:musical_score:, which allow me to be more creative in my work.
 - Contact me at my [e-mail](mailto:binkowskideandrade@gmail.com)
 
 
