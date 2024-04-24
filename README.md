@@ -4,11 +4,6 @@
 
 ## Hello there! :raised_hand:
 
-:rocket:My name is Fernando and I'm a web developer.
-
-- :computer:Currently working with React, React native and nodeJS.
-- I'm also a Psychologist:brain: and Musician:musical_score:, which allow me to be more creative in my work.
-- Contact me at my [e-mail](mailto:binkowskideandrade@gmail.com)
-
+:rocket:My name is Fernando and I'm a full stack developer.
 
 *“Everyone thinks of changing the world, but no one thinks of changing himself.”* - Liev Tolstói
